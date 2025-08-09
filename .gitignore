@@ -22,3 +22,5 @@ logs
 
 # Misc
 .DS_Store
+# Database files
+*.db
